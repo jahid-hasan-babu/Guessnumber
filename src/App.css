@@ -1,0 +1,42 @@
+.maindiv h2{
+  color: rgb(116, 94, 214);
+  text-align: center;
+  font-size: 80px;
+  font-weight: 700;
+}
+body{
+  background-color: rgb(145, 177, 177);
+}
+.from input{
+  padding: 20px 250px;
+  border-radius: 25px;
+  text-align: center;
+  cursor: pointer;
+  background-color: beige;
+  margin-left: 500px;
+  outline: none;
+  border: none;
+}
+.from button{
+  margin-top: 20px;
+  padding: 20px 100px;
+  border-radius: 25px;
+  text-align: center;
+  background-color: beige;
+  margin-left: 680px;
+  outline: none;
+  border: none;
+}
+
+.from button:hover{
+  background-color: aqua;
+}
+h1{
+  text-align: center;
+}
+.red{
+  color: red;
+}
+.green{
+  color: green;
+}
